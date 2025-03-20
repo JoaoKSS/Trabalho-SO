@@ -21,5 +21,5 @@ Este projeto é uma implementação do algoritmo de compressão e descompressão
 </ul>
 
 <h3>Como Compilar</h3>
-Para compilar o projeto, abra o terminal no diretório do projeto e execute: make run e make clean para limpar pastas criadas pelo compilador
+Para compilar o projeto, abra o terminal no diretório do projeto e execute: make run e make clean para limpar pastas criadas pelo compilador.
 
